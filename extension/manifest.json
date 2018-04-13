@@ -1,0 +1,11 @@
+{
+    "name": "Discord Mini",
+    "description": "It steals the style of Steam's Chat but in Discord Web.",
+    "manifest_version": 2,
+    "version": "0.1.0",
+    "content_scripts": [{
+        "matches": [ "https://discordapp.com/channels/*" ],
+        "js": ["script.js"],
+        "css": ["style.css"]
+    }]
+}
