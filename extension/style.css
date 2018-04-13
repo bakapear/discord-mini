@@ -84,9 +84,15 @@ div.typing-3eiiL_ {
     top: -26px;
 }
 
-.membersWrap-3wRngy {
-    min-width:100px!important;
-    width:100px!important;
+div.membersWrap-3wRngy {
+    min-width:50px!important;
+    width:50px!important;
+    transition: all 0.6s ease;
+}
+
+div.membersWrap-3wRngy:hover {
+    width:120px!important;
+    transition: all 0.3s ease;
 }
 
 div.membersWrap-3wRngy > div > div > div {

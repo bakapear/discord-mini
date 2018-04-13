@@ -8,5 +8,5 @@ Drag the extension folder into `chrome://extensions` and it should apply the sty
 
 ## Preview
 ![Preview 0](https://i.imgur.com/3QM8aA1.png)
-![Preview 1](https://i.imgur.com/af4Il8k.png)
-![Preview 2](https://i.imgur.com/vtGJnwy.png)
+![Preview 1](https://i.imgur.com/u0CL9yL.png)
+![Preview 2](https://i.imgur.com/cBNmk0d.png)
