@@ -1,12 +1,19 @@
 # discord-mini
-Chrome extension that makes discord more useable in small spaces.
+Discord CSS Theme that makes everything more compact.
 
-I highly recommend using CTRL+K to nagivate because the server and channel bars are removed. As a bonus, you could start discord in [chrome application mode](https://superuser.com/questions/33548/starting-google-chrome-in-application-mode) so that the borders and address bar won't bother you. </br> And here's how to [hide the annoying message](https://www.ghacks.net/2017/07/04/hide-chromes-disable-developer-mode-extensions-warning/) that comes up when you open Chrome and have this installed.
+If the window size is less than 960px it will change its style to a more compact version. If it's less than 480px then the server and channel panels will disappear! (See in preview)
 
 ## Installation
-Drag the extension folder into `chrome://extensions` and it should apply the style after you reload the discord page. 
+
+Add the following code lines to `...\AppData\Roaming\discord\settings.json`:
+```json
+"MIN_WIDTH": 480, "MIN_HEIGHT": 440
+```
+[It should look like this](https://i.imgur.com/wmKC3ah.png)
+
+Either use [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) or [BetterDiscord](https://betterdiscord.net/home/) to apply the theme. They have their theme installation tutorials... I think.
 
 ## Preview
-![Preview 0](https://i.imgur.com/3QM8aA1.png)
-![Preview 1](https://i.imgur.com/u0CL9yL.png)
-![Preview 2](https://i.imgur.com/cBNmk0d.png)
+![Preview 0](https://i.imgur.com/CVgDXQM.gif)
+![Preview 1](https://i.imgur.com/ZmLVtKj.gif)
+![Preview 2](https://i.imgur.com/iPkjDv4.gif)
