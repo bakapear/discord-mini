@@ -67,11 +67,11 @@
         height: 34px;
     }
     /*Server Panel*/
-    .guilds-wrapper {
+    .guildsWrapper-5TJh6A {
         width: 10px;
         transition: all 0.5s ease;
     }
-    .guilds-wrapper:hover {
+    .guildsWrapper-5TJh6A:hover {
         width: 68px;
     }
     /*Friends Panel*/
@@ -86,7 +86,7 @@
 }
 
 @media (max-width:480px) {
-    .guilds-wrapper, div.channels-Ie2l6A.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr {
+    .guildsWrapper-5TJh6A, div.channels-Ie2l6A.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr {
         transition: all 0.5s ease;
         width: 0px;
     }
@@ -106,5 +106,8 @@
     }
     div.typing-2GQL18 span.text-1y-e8- {
         display: none;
+    }
+    .channelTextArea-1LDbYG.channelTextArea-rNsIhG {
+        padding: 0px;
     }
 }
