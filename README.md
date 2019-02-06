@@ -11,7 +11,7 @@ Add the following code lines to `...\AppData\Roaming\discord\settings.json`:
 ```
 [It should look like this](https://i.imgur.com/wmKC3ah.png)
 
-Either use [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) or [BetterDiscord](https://betterdiscord.net/home/) to apply the theme. They have their theme installation tutorials... I think.
+Either use [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord), [BetterDiscord](https://betterdiscord.net/home/) or [DiscordInjections](https://github.com/DiscordInjections/DiscordInjections) to apply the theme. They have their theme installation tutorials... I think.
 
 ## Preview
 ![Preview 0](https://i.imgur.com/CVgDXQM.gif)
