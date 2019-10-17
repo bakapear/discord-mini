@@ -1,6 +1,8 @@
 # discord-mini
 Discord CSS Theme that makes everything more compact.
 
+>does not work anymore because discord keeps changing their html classnames
+
 If the window size is less than 960px it will change its style to a more compact version. If it's less than 480px then the server and channel panels will disappear! (See in preview)
 
 ## Installation
